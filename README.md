@@ -1,5 +1,8 @@
 # IEEE_DIODE_impulse2024
 Team IEEE DIODE's impulse colab notebook
 
-## tasks completed
-task 1 to task 6
+## Tasks completed
+Task 1 to task 6
+
+## Model
+The model here needs to be stored in the MRI folder on the user's google drive
